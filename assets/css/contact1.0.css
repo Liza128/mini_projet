@@ -1,0 +1,44 @@
+.barre{
+    
+    background-image: linear-gradient(to right, #065dff, rgb(109, 152, 207),rgb(185, 181, 181));
+    height: 3px;
+}
+.cont1,.cont2{
+    border-radius: 10px;
+    background-color: black;
+    padding: 30px;
+    margin: 40px;
+}
+label{
+    color: #182677;
+    font-weight: bold;
+    line-height: 1.5;
+    margin: 0 0 0.7em 0;
+    display: block;
+    /* font-size: 1.1em; */
+}
+.field{
+    margin: 10px;
+}
+.ch{
+    border-radius: 0.25em;
+    height: 30px;
+    border: solid 1px #8592db;
+}
+.ch1{
+    border: solid 1px #8592db; 
+    border-radius: 0.25em;
+}
+.ch2{
+    border: solid 1px #8592db; 
+    border-radius: 0.40em;
+    background-color: #182677;
+    color: white;
+    height: 35px;
+    width: 100%;
+    
+}
+.cont2{
+    color: #182677;
+
+}
